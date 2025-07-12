@@ -1,5 +1,7 @@
 # ghup debug
 
+asdasdasa
+
 Dump contextual information to aid debugging.
 
 ## Synopsis
@@ -15,6 +17,7 @@ ghup debug [flags]
 The `debug` command provides detailed information about the current `ghup` configuration, environment, and repository context. This is useful for troubleshooting issues with the tool or understanding the environment in which it's running.
 
 The command displays information such as:
+
 - Repository details
 - Current branch and commit
 - Authentication status
@@ -22,6 +25,7 @@ The command displays information such as:
 - Local repository status
 
 This command is particularly helpful when:
+
 - Diagnosing issues with authentication
 - Confirming environment variables are being picked up correctly
 - Verifying the correct repository is being targeted
